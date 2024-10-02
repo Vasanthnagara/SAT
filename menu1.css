@@ -1,0 +1,13 @@
+.dropdown{
+    margin: 10px;
+    margin-left: 76px;
+}
+.dropdown-item{
+    background-color: transparent;
+}
+.row{
+    padding-left: 10%;
+}
+.button{
+    float: right;
+}

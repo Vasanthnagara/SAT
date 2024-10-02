@@ -1,0 +1,13 @@
+body{
+    background-image: url('home.jpg');
+    background-size: cover;
+}
+.button{
+    float: right;
+}
+.image{
+    text-align: center;
+    padding: 20%;
+    font-size: 660%;
+    color: aliceblue;
+}
